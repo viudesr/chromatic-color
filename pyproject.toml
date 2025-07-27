@@ -1,0 +1,15 @@
+[project]
+name = "chromatic_color"
+version = "0.0.1"
+authors = [
+  { name="Raphael VIUDES", email="raphael.viudes@gmail.com" },
+]
+description = "A package to manage simple RGB color triplets and compute other chromatic scale colors"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
